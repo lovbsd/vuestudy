@@ -18,5 +18,5 @@ npm run build
  vue 공식문서를 참조하여 적용중인 라우터 입니다. 
  향후 하드코딩되어있는 첫번째 프로젝트를 현재 스터디중인 vue로 작업진행할 예정입니다.
 ##
-to be continue
+to be continue....
 Fall in thought
