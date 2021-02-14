@@ -1,6 +1,11 @@
 
 <template>
   <div><h1>this is home page</h1>
+   <ul>
+      <li><router-link to="/chartjs">vue-chartjs</router-link></li>
+      <li><router-link to="/charts">vue-charts</router-link></li>
+     <li><router-link to="/chartKick">vue-chartKick</router-link></li>
+  </ul>
   <p>{{name}}</p>
   <seongbo/>
   </div>
