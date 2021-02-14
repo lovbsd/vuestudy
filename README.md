@@ -1,6 +1,7 @@
 # Title
 
-> A 2.0-Vue.js project & my Portfolio
+> A 2.0-Vue.js project
+vue/cli 2.0 버전과 라우터및 웹팩 기능을 사용한 vue 차트예제 입니다.
 
 ## Build Setup
 
